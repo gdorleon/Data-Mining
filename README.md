@@ -4,6 +4,6 @@ Jeu de Données: Census Income Data Set
 
 Travaux Réalisés:
 
-Analyse Descriptive du jeu de données
-Analyse Factorielle des Correspondances
-Clustering
+- Analyse Descriptive du jeu de données -
+- Analyse Factorielle des Correspondances
+- Clustering

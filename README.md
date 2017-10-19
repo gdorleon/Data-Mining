@@ -6,4 +6,4 @@ Travaux Réalisés:
 
 - Analyse Descriptive du jeu de données -
 - Analyse Factorielle des Correspondances
-- Clustering
+- Clustering avec SVM et Arbre de Décisions

@@ -7,3 +7,5 @@ Travaux Réalisés:
 - Analyse Descriptive du jeu de données -
 - Analyse Factorielle des Correspondances
 - Clustering avec SVM et Arbre de Décisions
+
+Logiciel Utilisé : Tanagra
